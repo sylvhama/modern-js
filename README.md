@@ -24,7 +24,7 @@ Before digging into ES6, let's make sure that we understand some ES5 common conc
 - [Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx) :clapper:
 - [Learn Redux](https://learnredux.com/) :clapper:
 - [Jest Getting Started](https://facebook.github.io/jest/docs/en/getting-started.html) :pencil: tests in React
-# 3) Are you ready!?
+## 3) Are you ready!?
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) :pencil:
 - [Create your first React App](https://github.com/facebookincubator/create-react-app) :computer:
 - [More links](https://github.com/markerikson/react-redux-links) :pencil:
