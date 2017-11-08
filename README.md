@@ -1,3 +1,5 @@
+#Road to Modern JavaScript (and React)
+
 *"ES6 is JavaScript"* (from [How to learn ES6](https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620))
 
 The purpose of this guide is to provide a list of several free ressources (articles :pencil:, books :book:, videos :clapper:) which will help you to learn ECMAScript 6 (also knows as ES6 or ES2015) and the framework React.
