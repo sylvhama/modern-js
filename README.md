@@ -1,4 +1,4 @@
-# Road to Modern JavaScript (and React)
+# Road to Modern JavaScript and React
 
 *"ES6 is JavaScript"* (from [How to learn ES6](https://medium.com/javascript-scene/how-to-learn-es6-47d9a1ac2620))
 
