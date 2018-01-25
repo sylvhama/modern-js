@@ -12,6 +12,7 @@ Before digging into ES6, let's make sure that we understand some ES5 common conc
 - [Understanding Hoisting in JavaScript](https://scotch.io/tutorials/understanding-hoisting-in-javascript) :pencil:
 - [Prototypes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain) :pencil:, it's nice to understand prototypes in JavaScript since ES6 class is only syntactical sugar, JavaScript remains prototype-based.
 ## 1) ES6 / ES2015
+- [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70) :pencil:
 - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) :book:
 - [Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015) :clapper:
 - Discover [Babel](https://babeljs.io/) :pencil: which will be your JS compiler. They made a nice overview of ES6 features: [Learn ES2015](https://babeljs.io/learn-es2015/)
