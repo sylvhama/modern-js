@@ -14,6 +14,7 @@ Before digging into ES6, let's make sure that we understand some ES5 common conc
 - [But really, what is a JavaScript test?](https://www.javascriptjanuary.com/blog/but-really-what-is-a-javascript-test) :pencil:
 ## 1) ES6 / ES2015
 - [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70) :pencil:
+- [The Modern JavaScript Tutorial](https://javascript.info/) :pencil: How it's done now. From the basics to advanced topics with simple, but detailed explanations.
 - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) :book:
 - [Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015) :clapper:
 - Discover [Babel](https://babeljs.io/) :pencil: which will be your JS compiler. They made a nice overview of ES6 features: [Learn ES2015](https://babeljs.io/learn-es2015/)
@@ -35,3 +36,7 @@ Before digging into ES6, let's make sure that we understand some ES5 common conc
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) :pencil:
 - [Create your first React App](https://github.com/facebookincubator/create-react-app) :computer:
 - [More links](https://github.com/markerikson/react-redux-links) :pencil:
+
+
+##### Special Mention
+You really should have a look to [Wes Bos courses](http://wesbos.com/courses/) :clapper:, they aren't all free but they worth the investiment! 
