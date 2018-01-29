@@ -13,12 +13,10 @@ Before digging into ES6, let's make sure that we understand some ES5 common conc
 - [Prototypes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain) :pencil:, it's nice to understand prototypes in JavaScript since ES6 class is only syntactical sugar, JavaScript remains prototype-based.
 - [But really, what is a JavaScript test?](https://www.javascriptjanuary.com/blog/but-really-what-is-a-javascript-test) :pencil:
 ## 1) ES6 / ES2015
-- [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70) :pencil:
+- [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70) :pencil: there you will learn basics about npm, Babel, Webpack etc.. and the history behind it.
 - [The Modern JavaScript Tutorial](https://javascript.info/) :pencil: How it's done now. From the basics to advanced topics with simple, but detailed explanations.
 - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) :book:
 - [Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015) :clapper:
-- Discover [Babel](https://babeljs.io/) :pencil: which will be your JS compiler. They made a nice overview of ES6 features: [Learn ES2015](https://babeljs.io/learn-es2015/)
-- Discover [Webpack](https://webpack.js.org/) :pencil: which is an "alternative" to task runners like Grunt or Gulp. It will be essential when using ES6 modules.
 - [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA) :clapper: this is not directly realted to ES6 but he uses ES6 syntax.
 ## 2) React :atom_symbol:
 ##### Beginners
