@@ -37,4 +37,4 @@ Before digging into ES6, let's make sure that we understand some ES5 common conc
 
 
 ##### Special Mention
-You really should have a look to [Wes Bos courses](http://wesbos.com/courses/) :clapper:, they aren't all free but they worth the investiment! 
+You really should have a look to [Wes Bos courses](http://wesbos.com/courses/) :clapper:, they aren't all free but they worth the investment! 
