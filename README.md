@@ -12,6 +12,7 @@ Before digging into ES6, let's make sure that we understand some ES5 common conc
 - [Understanding Hoisting in JavaScript](https://scotch.io/tutorials/understanding-hoisting-in-javascript) :pencil:
 - [Prototypes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain) :pencil:, it's nice to understand prototypes in JavaScript since ES6 class is only syntactical sugar, JavaScript remains prototype-based.
 - [But really, what is a JavaScript test?](https://www.javascriptjanuary.com/blog/but-really-what-is-a-javascript-test) :pencil:
+- [Get Started with Debugging JavaScript in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/) :clapper:
 ## 1) ES6 / ES2015
 - [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70) :pencil: there you will learn basics about npm, Babel, Webpack etc.. and the history behind it.
 - [The Modern JavaScript Tutorial](https://javascript.info/) :pencil: How it's done now. From the basics to advanced topics with simple, but detailed explanations.
@@ -26,6 +27,7 @@ Before digging into ES6, let's make sure that we understand some ES5 common conc
 ##### Advanced
 - [CSS Evolution: From CSS, SASS, BEM, CSS Modules to Styled Components](https://m.alphasights.com/css-evolution-from-css-sass-bem-css-modules-to-styled-components-d4c1da3a659b) :pencil:
 - [Higher Order Components: A React Application Design Pattern](https://www.sitepoint.com/react-higher-order-components/) :pencil:
+- [Render Props](https://reactjs.org/docs/render-props.html) :pencil:
 - [Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx) :clapper:
 - [React, Redux and JavaScript Architecture](https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/) :pencil:
 - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) :clapper:
