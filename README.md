@@ -25,7 +25,6 @@ Before digging into ES6, let's make sure that we understand some ES5 common conc
 - [Start Learning React](https://egghead.io/courses/start-learning-react) :clapper:
 - [Jest Getting Started](https://facebook.github.io/jest/docs/en/getting-started.html) :pencil: automated tests in React
 ##### Advanced
-- [CSS Evolution: From CSS, SASS, BEM, CSS Modules to Styled Components](https://m.alphasights.com/css-evolution-from-css-sass-bem-css-modules-to-styled-components-d4c1da3a659b) :pencil:
 - [Higher Order Components: A React Application Design Pattern](https://www.sitepoint.com/react-higher-order-components/) :pencil:
 - [Render Props](https://reactjs.org/docs/render-props.html) :pencil:
 - [Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx) :clapper:
@@ -40,3 +39,11 @@ Before digging into ES6, let's make sure that we understand some ES5 common conc
 
 ##### Special Mention
 You really should have a look to [Wes Bos courses](http://wesbos.com/courses/) :clapper:, they aren't all free but they worth the investment! 
+
+
+##### What about styling?
+- [Modern CSS Explained For Dinosaurs](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525) :pencil:
+- [Styling and CSS](https://reactjs.org/docs/faq-styling.html) Official doc :pencil:
+- [CSS Modules](https://github.com/css-modules/css-modules) :pencil:
+- [http://cssinjs.org/](JSS) Also known as css-in-js :pencil:
+- [https://www.styled-components.com/](Styled Components) :pencil:
