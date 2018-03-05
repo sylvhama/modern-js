@@ -45,5 +45,5 @@ You really should have a look to [Wes Bos courses](http://wesbos.com/courses/) :
 - [Modern CSS Explained For Dinosaurs](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525) :pencil:
 - [Styling and CSS](https://reactjs.org/docs/faq-styling.html) Official doc :pencil:
 - [CSS Modules](https://github.com/css-modules/css-modules) :pencil:
-- [http://cssinjs.org/](JSS) Also known as css-in-js :pencil:
-- [https://www.styled-components.com/](Styled Components) :pencil:
+- [JSS](http://cssinjs.org/) Also known as css-in-js :pencil:
+- [Styled Components](https://www.styled-components.com/) :pencil:
