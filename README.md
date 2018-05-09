@@ -7,7 +7,6 @@ The purpose of this guide is to provide a list of several free ressources (artic
 ## 0) ES5 foundations
 Before digging into ES6, let's make sure that we understand some ES5 common concepts:
 - [Eloquent JavaScript](http://eloquentjavascript.net/) :book: is the perfect reminder to review JS and some general programming concepts.
-- [Modern JavaScript Tutorial](https://javascript.info/) :pencil: From the basics to advanced topics with simple, but detailed explanations.
 - [Functionnal Programming in Javascript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) :clapper:, those videos are made by a former Spotify JS developer. He will teach you essential concepts like Promises, Closures or Higher Order Functions. Those things are essentials in React.
 - [Understanding Hoisting in JavaScript](https://scotch.io/tutorials/understanding-hoisting-in-javascript) :pencil:
 - [Prototypes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain) :pencil:, it's nice to understand prototypes in JavaScript since ES6 class is only syntactical sugar, JavaScript remains prototype-based.
@@ -21,7 +20,7 @@ Before digging into ES6, let's make sure that we understand some ES5 common conc
 - [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA) :clapper: this is not directly realted to ES6 but he uses ES6 syntax.
 ## 2) React :atom_symbol:
 ##### Beginners
-- [Road to React](https://leanpub.com/the-road-to-learn-react/read_full) :book: it also covers some ES6 features.
+- [Road to React](https://leanpub.com/the-road-to-learn-react/) :book: it also covers some ES6 features, you can "buy" it for free.
 - [Start Learning React](https://egghead.io/courses/start-learning-react) :clapper:
 - [Jest Getting Started](https://facebook.github.io/jest/docs/en/getting-started.html) :pencil: automated tests in React
 ##### Advanced
