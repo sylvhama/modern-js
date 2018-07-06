@@ -29,7 +29,7 @@ Before digging into ES6, let's make sure that we understand some ES5 common conc
 - [Render Props](https://reactjs.org/docs/render-props.html) :pencil:
 - [Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx) :clapper:
 - [React, Redux and JavaScript Architecture](https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/) :pencil:
-- [ Understanding Redux: The World’s Easiest Guide to Beginning Redux](https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6) :book:
+- [Understanding Redux: The World’s Easiest Guide to Beginning Redux](https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6) :pencil:
 - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) :clapper:
 - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) :clapper:
 ## 3) Are you ready!?
