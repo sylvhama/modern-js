@@ -58,11 +58,11 @@ If you want to learn more about Mobx or Redux then I would recommend their offic
 You really should have a look to [Wes Bos courses](http://wesbos.com/courses/) :clapper:, they aren't all free but they worth the investment! 
 
 ##### What about styling?
-Some basics
+##### Some basics
 - [Modern CSS Explained For Dinosaurs](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525) :pencil:
 - [CSS-in-JS or CSS-and-JS](https://johnpolacek.github.io/css-in-js-or-css-and-js/) :pencil:
 - [Styling and CSS](https://reactjs.org/docs/faq-styling.html) Official React doc :pencil:
-Libraries you can use to manage your style:
+##### Libraries you can use to manage your style:
 - [CSS Modules](https://github.com/css-modules/css-modules) :pencil:
 - [JSS](http://cssinjs.org/) :pencil:
 - [Styled Components](https://www.styled-components.com/) :pencil: I think they are the best in between choice for those who are used to write "classic" CSS and want to take advantage from mixing it with JavaScript.
