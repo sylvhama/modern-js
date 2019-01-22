@@ -4,7 +4,7 @@
 
 The purpose of this guide is to provide a list of several free ressources (articles :pencil:, books :book:, videos :clapper:) which will help you to learn ECMAScript 6 (also known as ES6 or ES2015) and the framework React.  
 
-:warning: This guide is not meant to list everything you must know about JavaScript or React. I've tried to list what could be useful if you were totally new to this world based on my experience and the people I've met. If your favorite thing isn't listed there, it doesn't mean I dislike it or disapprove it. For example TypeScript or GraphQL are great, but I don't think it is mandatory to learn that first **as a beginner**.
+:warning: This guide is not meant to list everything you must know about JavaScript or React. I've tried to list what could be useful if you were totally new to this world based on my experience and the people I've met. If your favorite thing isn't listed there, it doesn't mean I dislike it or disapprove it. For example [TypeScript](http://2ality.com/2018/04/type-notation-typescript.html) or [GraphQL](https://www.howtographql.com/) are great, but I don't think it is mandatory to learn that first **as a beginner**.
 
 ## 0) ES5 foundations and others basics
 Before digging into ES6, let's make sure that we understand some ES5 common concepts:
