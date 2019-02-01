@@ -48,6 +48,7 @@ If you want to learn more about Mobx or Redux then I would recommend their offic
 - [Understanding Redux: The World’s Easiest Guide to Beginning Redux](https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6) :pencil:
 - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) :clapper:
 - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) :clapper:
+- [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) :pencil:
 
 ## 3) Are you ready!?
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) :pencil:
