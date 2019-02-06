@@ -32,7 +32,7 @@ The [official doc](https://reactjs.org/docs/getting-started.html) is awesome! Ho
 - [Jest Getting Started](https://facebook.github.io/jest/docs/en/getting-started.html) :pencil: automated tests in React
 
 ##### Hooks :vs: Class Components
-[Hooks](https://reactjs.org/docs/hooks-intro.html) :pencil: The hooks offer a different approach to use State and others React features outside of classes. I believe you should still learn about Class components and some patterns used to share logic between components because you might still encounter them:
+The [Hooks](https://reactjs.org/docs/hooks-intro.html) :pencil: offer a different approach to use state and others React features outside of classes. I believe you should still learn about Class components and some patterns used to share logic between components because you might still encounter them:
 - [React Lifecycle Methods Diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/) :pencil:, this will help you to understand how a Class component lives and dies. 
 - [Higher Order Components: A React Application Design Pattern](https://www.sitepoint.com/react-higher-order-components/) :pencil:
 - [Render Props](https://reactjs.org/docs/render-props.html) :pencil:
