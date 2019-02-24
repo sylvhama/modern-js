@@ -30,6 +30,7 @@ The [official doc](https://reactjs.org/docs/getting-started.html) is awesome! Ho
 - [Road to React](https://leanpub.com/the-road-to-learn-react/) :book: it also covers some ES6 features, you can "buy" it for free.
 - [Start Learning React](https://egghead.io/courses/start-learning-react) :clapper:
 - [Jest Getting Started](https://facebook.github.io/jest/docs/en/getting-started.html) :pencil: automated tests in React
+- [Progressive React](https://houssein.me/progressive-react) :pencil: tips to make your React site performant
 
 ##### Hooks :vs: Class Components
 The [Hooks](https://reactjs.org/docs/hooks-intro.html) :pencil: offer a different approach to use state and others React features outside of classes. I believe you should still learn about Class components and some patterns used to share logic between components because you might still encounter them:
@@ -52,7 +53,7 @@ If you want to learn more about Mobx or Redux then I would recommend their offic
 
 ## 3) Are you ready!?
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) :pencil:
-- Create your first React App: on [your machine](https://github.com/facebookincubator/create-react-app) :computer: or within [your browser](https://codesandbox.io/) :globe_with_meridians:
+- Create your first React App: on [your machine](https://facebook.github.io/create-react-app/) :computer: or within [your browser](https://codesandbox.io/) :globe_with_meridians:
 - [More links](https://github.com/markerikson/react-redux-links) :pencil:
 
 ##### Special Mention
