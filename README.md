@@ -9,11 +9,11 @@ The purpose of this guide is to provide a list of several free ressources (artic
 ## 0) ES5 foundations and others basics
 Before digging into ES6, let's make sure that we understand some ES5 common concepts:
 - [Eloquent JavaScript](http://eloquentjavascript.net/) :book: is the perfect reminder to learn JS and review some general programming concepts.
-- [Functional Programming in Javascript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) :clapper:, those videos are made by a former Spotify JS developer. He will teach you essential concepts like Promises (this is ES6 but it's okay!), Closures or Higher Order Functions. Those things are essentials in React.
 - [Understanding Hoisting in JavaScript](https://scotch.io/tutorials/understanding-hoisting-in-javascript) :pencil:, if you come from another programming language, you might feel unconfortable with how we can declare variables in JS. This article will help you to feel better!
 - [Prototypes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain) :pencil:, it's nice to understand prototypes in JavaScript since ES6 class is only syntactical sugar, JavaScript remains prototype-based. However I would only learn this for your general culture, it's not something you might use on a daily base.
 - [But really, what is a JavaScript test?](https://www.javascriptjanuary.com/blog/but-really-what-is-a-javascript-test) :pencil:, what ever the language you use, it's always important to write automatic tests!
 - [Get Started with Debugging JavaScript in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/) :clapper: Firefox or Edge also have their own devtools, but I personnaly prefer using Chrome ones when coding.
+- [Functional Programming in Javascript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) :clapper:, those videos are made by a former Spotify JS developer. He will teach you essential concepts like Promises, Closures or Higher Order Functions. Those things are essentials in React.
 
 ## 1) ES6 / ES2015
 - [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70) :pencil:, you will learn basics about npm, Babel, Webpack etc.. and the history behind it.
