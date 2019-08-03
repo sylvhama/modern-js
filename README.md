@@ -67,4 +67,5 @@ You really should have a look to [Wes Bos courses](http://wesbos.com/courses/) :
 ##### Libraries you can use to manage your style:
 - [CSS Modules](https://github.com/css-modules/css-modules) :pencil:
 - [JSS](http://cssinjs.org/) :pencil:
+- [Emotion](https://emotion.sh/) :pencil:
 - [Styled Components](https://www.styled-components.com/) :pencil: I think they are the best in between choice for those who are used to write "classic" CSS and want to take advantage from mixing it with JavaScript.
