@@ -28,7 +28,7 @@ The [official doc](https://reactjs.org/docs/getting-started.html) is awesome! Ho
 
 ##### To start
 - [Road to React](https://leanpub.com/the-road-to-learn-react/) :book: it also covers some ES6 features, you can "buy" it for free.
-- [Start Learning React](https://egghead.io/courses/start-learning-react) :clapper:
+- [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react) :clapper:
 - [Jest Getting Started](https://facebook.github.io/jest/docs/en/getting-started.html) :pencil: automated tests in React
 - [Progressive React](https://houssein.me/progressive-react) :pencil: tips to make your React site performant
 
