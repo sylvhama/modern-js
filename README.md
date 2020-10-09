@@ -25,22 +25,22 @@ Before digging into ES6, let's make sure that we understand some ES5 common conc
 
 ## 2) React :atom_symbol:
 
-The [official doc](https://reactjs.org/docs/getting-started.html) is awesome! However if you need different point of views / styles then you can look at the following links:
+The [official doc](https://reactjs.org/docs/getting-started.html) is awesome! They also have a list of [free courses](https://reactjs.org/community/courses.html) (and paid ones).
 
-##### To start
-- [Road to React](https://leanpub.com/the-road-to-learn-react/) :book: it also covers some ES6 features, you can "buy" it for free.
+##### What I would recommend
 - [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react) :clapper:
 - [How to use React Testing Library Tutorial](https://www.robinwieruch.de/react-testing-library) :pencil: Understand Jest and learned how to write automated tests via React Testing Library
 - [Progressive React](https://houssein.me/progressive-react) :pencil: tips to make your React site performant
 
 ##### Hooks :vs: Class Components
-The [Hooks](https://reactjs.org/docs/hooks-intro.html) :pencil: offer a different approach to use state and others React features outside of classes. I believe you should still learn about Class components and some patterns used to share logic between components because you might still encounter them:
+The [Hooks](https://reactjs.org/docs/hooks-intro.html) :pencil: offer a different approach to use state and others React features outside of classes. I also suggest you to check [Why React Hooks?](https://ui.dev/why-react-hooks/) :pencil: :clapper:.
+You might also want to learn about Class components and some patterns used to share logic between them because there are still present in a lot of codebases:
 - [React Lifecycle Methods Diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/) :pencil:, this will help you to understand how a Class component lives and dies. 
 - [Higher Order Components: A React Application Design Pattern](https://www.sitepoint.com/react-higher-order-components/) :pencil:
 - [Render Props](https://reactjs.org/docs/render-props.html) :pencil:
 
 ##### State management
-At some point you might think it would be nice to have access to some kind of global variable in any React component in order to avoid passing down props again and again... People might tell you to use [Redux](https://redux.js.org/) :pencil: or [MobX](https://mobx.js.org/) :pencil: to achieve that but it might be overkilled! I recommend reading the article [You might not need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367) :pencil: first. Plus React now has a stable [Context API](https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b) :pencil: that will help you to share data across components without a third party.  
+At some point you might think it would be nice to have access to some kind of global variable in any React component in order to avoid passing down props again and again... People might tell you to use [Redux](https://redux.js.org/) :pencil: or [MobX](https://mobx.js.org/) :pencil: to achieve that but it might be overkilled! I recommend reading the article [You might not need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367) :pencil: first. Plus React now has a stable [Context API](https://kentcdodds.com/blog/reacts-new-context-api) :pencil: that will help you to share data across components without a third party.  
 
 So you've learned about pros and cons about MobX or Redux but you're not sure which one is better? As always it will depend of your taste, your personality, your experience, your team, the project you are working on etc... There isn't a bad choice.
 
