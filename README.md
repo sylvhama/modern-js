@@ -40,12 +40,11 @@ You might also want to learn about Class components and some patterns used to sh
 - [Render Props](https://reactjs.org/docs/render-props.html) :pencil:
 
 ##### State management
-At some point you might think it would be nice to have access to some kind of global state in any React component in order to avoid passing down props again and again... People might tell you to use [Redux](https://redux.js.org/) :pencil: or [MobX](https://mobx.js.org/) :pencil: or [insert popular libray name] to achieve that but it might be overkilled! I recommend reading the article [You might not need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367) :pencil: first. Plus React now has a stable [Context API](https://kentcdodds.com/blog/reacts-new-context-api) :pencil: that will help you to share data across components without a third party library.  
+At some point you might think it would be nice to have access to some kind of global state in any React component in order to avoid passing down props again and again... People might tell you to use Redux or MobX or [insert popular libray name] to achieve that but it might be overkilled! I recommend reading the article [You might not need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367) :pencil: first. Plus React now has a stable [Context API](https://kentcdodds.com/blog/reacts-new-context-api) :pencil: that will help you to share data across components without a third party library.  
 
 So you've learned about pros and cons about MobX or Redux but you're not sure which one is better? As always it will depend of your taste, your personality, your experience, your team, the project you are working on etc... There isn't a bad choice.
 
-If you want to learn more about Mobx or Redux then I would recommend their official docs and those links (you will notice that there are much more Redux links because I kinda prefer it :see_no_evil:):
-- [Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx) :clapper:
+If you want to learn more about Redux then I would recommend its [official doc](https://redux.js.org/) :pencil: and those links:
 - [React, Redux and JavaScript Architecture](https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/) :pencil:
 - [Understanding Redux: The World’s Easiest Guide to Beginning Redux](https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6) :pencil:
 - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) :clapper:
