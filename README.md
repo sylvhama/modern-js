@@ -40,7 +40,7 @@ You might also want to learn about Class components and some patterns used to sh
 - [Render Props](https://reactjs.org/docs/render-props.html) :pencil:
 
 ##### State management
-At some point you might think it would be nice to have access to some kind of global variable in any React component in order to avoid passing down props again and again... People might tell you to use [Redux](https://redux.js.org/) :pencil: or [MobX](https://mobx.js.org/) :pencil: to achieve that but it might be overkilled! I recommend reading the article [You might not need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367) :pencil: first. Plus React now has a stable [Context API](https://kentcdodds.com/blog/reacts-new-context-api) :pencil: that will help you to share data across components without a third party.  
+At some point you might think it would be nice to have access to some kind of global state in any React component in order to avoid passing down props again and again... People might tell you to use [Redux](https://redux.js.org/) :pencil: or [MobX](https://mobx.js.org/) :pencil: or [insert popular libray name] to achieve that but it might be overkilled! I recommend reading the article [You might not need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367) :pencil: first. Plus React now has a stable [Context API](https://kentcdodds.com/blog/reacts-new-context-api) :pencil: that will help you to share data across components without a third party library.  
 
 So you've learned about pros and cons about MobX or Redux but you're not sure which one is better? As always it will depend of your taste, your personality, your experience, your team, the project you are working on etc... There isn't a bad choice.
 
