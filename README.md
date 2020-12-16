@@ -22,6 +22,7 @@ Before digging into ES6, let's make sure that we understand some ES5 common conc
 - [Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015) :clapper:
 - [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA) :clapper: this is not directly related to ES6 but he uses ES6 syntax. At school I had to do a lot of Object Oriented Programming. This video helped me to understand why it's not always necessary. 
 - [Learn Web Devlopment](https://developer.mozilla.org/en-US/docs/Learn) :book:
+- [JavaScript to know for React](https://kentcdodds.com/blog/javascript-to-know-for-react) :pencil:
 
 ## 2) React :atom_symbol:
 
