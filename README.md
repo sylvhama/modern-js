@@ -13,10 +13,10 @@ The purpose of this guide is to provide a list of several free ressources (artic
 - [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn) :book: you will even learn HTML and CSS with that one. 
 
 ### Articles and videos I liked:
-- [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70) :pencil:, you will learn basics about npm, Babel, Webpack etc.. and the history behind it.
-- [Understanding Hoisting in JavaScript](https://scotch.io/tutorials/understanding-hoisting-in-javascript) :pencil:, if you come from another programming language, you might feel uncomfortable with how we can declare variables in JS. This article will help you to feel better!
+- [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70) :pencil: you will learn basics about npm, Babel, Webpack etc.. and the history behind it.
+- [Understanding Hoisting in JavaScript](https://scotch.io/tutorials/understanding-hoisting-in-javascript) :pencil: if you come from another programming language, you might feel uncomfortable with how we can declare variables in JS. This article will help you to feel better!
 - [Get Started with Debugging JavaScript in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/) :clapper: Firefox or Edge also have their own devtools, but I personally prefer using Chrome ones when coding.
-- [Functional Programming in Javascript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) :clapper:, those videos are made by a former Spotify JS developer. He will teach you essential concepts like Promises, Closures or Higher Order Functions. Those things are essentials in React.
+- [Functional Programming in Javascript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) :clapper: those videos are made by a former Spotify JS developer. He will teach you essential concepts like Promises, Closures or Higher Order Functions. Those things are essentials in React.
 - [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA) :clapper: At school I had to do a lot of Object Oriented Programming. This video helped me to understand why it's not always necessary. 
 
 ## 2) React :atom_symbol:
@@ -29,7 +29,7 @@ The purpose of this guide is to provide a list of several free ressources (artic
 ##### Hooks :vs: Class Components
 The hooks are very React specific, I suggest you to check [Why React Hooks?](https://ui.dev/why-react-hooks/) :pencil: :clapper: in order to learn more about React history and or why we now use hooks.
 You might also want to learn about Class components and some patterns used to share logic between components (before hooks arrival) because there are still present in a lot of codebases:
-- [React Lifecycle Methods Diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/) :pencil:, this will help you to understand how a Class component lives and dies. 
+- [React Lifecycle Methods Diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/) :pencil: this will help you to understand how a Class component lives and dies. 
 - [Higher Order Components: A React Application Design Pattern](https://www.sitepoint.com/react-higher-order-components/) :pencil:
 - [Render Props](https://reactjs.org/docs/render-props.html) :pencil:
 
