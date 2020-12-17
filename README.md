@@ -44,9 +44,10 @@ If you want to learn more about Redux then I would recommend its [official doc](
 - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) :pencil:
 - [Redux Toolkit](https://redux-toolkit.js.org/introduction/quick-start) :pencil: The official, opinionated, batteries-included toolset for efficient Redux development;
 
-## 3) Are you ready!?
+## 3) What's next!?
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) :pencil:
-- Create your a React App: via [create-react-app](https://facebook.github.io/create-react-app/) :computer: or directly in your browser on [codesandbox](https://codesandbox.io/) :globe_with_meridians:
+- Create your first React App via: [create-react-app](https://facebook.github.io/create-react-app/) :computer: or directly in your browser on [codesandbox](https://codesandbox.io/) :globe_with_meridians:
+- Have a look to [Next.js](https://nextjs.org/), [Gatsby][https://www.gatsbyjs.com/] and React Native via [Expo](https://expo.io/);
 - [More links](https://github.com/markerikson/react-redux-links) :pencil:
 
 ## What about styling?
