@@ -7,10 +7,10 @@ The purpose of this guide is to provide a list of several free ressources (artic
 ## 1) Modern JavaScript 💃
 
 ### Tutorials that cover everything:
-- [Eloquent JavaScript](http://eloquentjavascript.net/) :book: is perfect to learn JS and some general programming concepts.
+- [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn) :book: will also teach you HTML and CSS. FYI the [MDN Web Docs](https://developer.mozilla.org/) is the best place to find documentation about the web from my opinion.
+- [Eloquent JavaScript](http://eloquentjavascript.net/) :book: is perfect to learn JS and general programming concepts.
 - [The Modern JavaScript Tutorial](https://javascript.info/) :book: How it's done now. From the basics to advanced topics with simple, but detailed explanations.
 - [Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015) :clapper: if you used to write JavaScript a while ago and wanna catch up with modern syntaxes.
-- [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn) :book: you will even learn HTML and CSS with that one. FYI the [MDN Web Docs](https://developer.mozilla.org/) is the best place to find documentation about the web from my opinion.
 
 ### Articles and videos I liked:
 - [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70) :pencil: you will learn basics about npm, Babel, Webpack etc.. and the history behind it.
