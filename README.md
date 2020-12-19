@@ -8,7 +8,7 @@ The purpose of this guide is to provide a list of several free ressources (artic
 
 ### Tutorials that cover everything:
 - [Eloquent JavaScript](http://eloquentjavascript.net/) :book: is perfect to learn JS and some general programming concepts.
-- [The Modern JavaScript Tutorial](https://javascript.info/) :pencil: How it's done now. From the basics to advanced topics with simple, but detailed explanations.
+- [The Modern JavaScript Tutorial](https://javascript.info/) :book: How it's done now. From the basics to advanced topics with simple, but detailed explanations.
 - [Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015) :clapper: if you used to write JavaScript a while ago and wanna catch up with modern syntaxes.
 - [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn) :book: you will even learn HTML and CSS with that one. FYI the [MDN Web Docs](https://developer.mozilla.org/) is the best place to find documentation about the web from my opinion.
 
@@ -46,7 +46,7 @@ If you want to learn more about Redux then I would recommend its [official doc](
 
 ## 3) What's next!? 🎓
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) :pencil:
-- Create your first React App via: [create-react-app](https://facebook.github.io/create-react-app/) :computer: or directly in your browser on [codesandbox](https://codesandbox.io/) :globe_with_meridians:
+- Create your first React App via [create-react-app](https://facebook.github.io/create-react-app/) :computer: or directly in your browser on [codesandbox](https://codesandbox.io/) :globe_with_meridians:
 - Have a look to [Next.js](https://nextjs.org/), [Gatsby](https://www.gatsbyjs.com/) and React Native via [Expo](https://expo.io/);
 - [More links](https://github.com/markerikson/react-redux-links) :pencil:
 
