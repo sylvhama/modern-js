@@ -73,9 +73,9 @@ Maybe you just want to build an app and avoid spending a lot of time writing CSS
 - [Why Cypress?](https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell) :clapper: a library to write end-to-end tests and more;
 
 ## Others libraries / tools I default to:
-- Code editor: [VS Code](https://code.visualstudio.com/);
-- Auto code formatter: [Prettier](https://prettier.io/);
-- Manage Git via an UI instead of commands: [https://www.sourcetreeapp.com/](Sourcetree);
+- Code editor: [https://code.visualstudio.com/](VS Code);
+- Auto code formatter: [https://prettier.io/](Prettier);
+- Manage Git via an UI instead of commands: [Sourcetree](https://www.sourcetreeapp.com/);
 - Routing: [react-router](https://reactrouter.com/);
 - Internationalization: [LinguiJS](https://lingui.js.org/);
 - Develop your components in isolation and share them to your team via [Storybook][https://storybook.js.org/];
