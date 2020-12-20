@@ -1,13 +1,13 @@
 # Road to Modern JavaScript and React
 
-The purpose of this guide is to provide a list of several free ressources (articles :pencil:, books :book:, videos :clapper:) which will help you to learn modern JavaScript and the React library.  
+The purpose of this guide is to provide a list of several free ressources (articles :pencil:, books :book:, videos :clapper:) which will help you to learn modern JavaScript and the React library. 
 
 :warning: This guide is not meant to list everything you must know about JavaScript or React. I've tried to list what could be useful if you were totally new to this world based on my experience and the people I've met. If your favorite thing isn't listed there, it doesn't mean I dislike it or disapprove it. For example [TypeScript](http://2ality.com/2018/04/type-notation-typescript.html) or [GraphQL](https://www.howtographql.com/) are great, but I don't think it is mandatory to learn that first **as a beginner**.
 
 ## 1) Modern JavaScript 💃
 
 ### Tutorials that cover everything:
-- [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn) :book: will also teach you HTML and CSS. FYI the [MDN Web Docs](https://developer.mozilla.org/) is the best place to find documentation about the web from my opinion.
+- [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn) :book: will also teach you HTML and CSS. 
 - [Eloquent JavaScript](http://eloquentjavascript.net/) :book: is perfect to learn JS and general programming concepts.
 - [The Modern JavaScript Tutorial](https://javascript.info/) :book: How it's done now. From the basics to advanced topics with simple, but detailed explanations.
 - [Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015) :clapper: if you used to write JavaScript a while ago and wanna catch up with modern syntaxes.
@@ -19,12 +19,15 @@ The purpose of this guide is to provide a list of several free ressources (artic
 - [Functional Programming in Javascript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) :clapper: those videos are made by a former Spotify JS developer. He will teach you essential concepts like Promises, Closures or Higher Order Functions. Those things are essentials in React.
 - [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA) :clapper: At school I had to do a lot of Object Oriented Programming. This video helped me to understand why it's not always necessary. 
 
+### Documentation
+Sometimes you will need to search for documentation, for example if you don't know a specific keyword in a codebase or you would like to learn how to use a native function. Of course you cna use any search engine or Stackoverflow but I would recommend using the [MDN Web Docs](https://developer.mozilla.org/). 
+
 ## 2) React :atom_symbol:
 
 - [JavaScript to know for React](https://kentcdodds.com/blog/javascript-to-know-for-react) :pencil:
 - The [official doc](https://reactjs.org/docs/getting-started.html) is awesome! They also have a list of [free courses](https://reactjs.org/community/courses.html) (and paid ones).
 - [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react) :clapper:
-- [Progressive React](https://houssein.me/progressive-react) :pencil: tips to make your React site performant
+- [Progressive React](https://houssein.me/progressive-react) :pencil: tips to make your React site performant. [web.dev](https://web.dev/) also has a lot of articles like that.
 
 ##### Hooks :vs: Class Components
 The hooks are very React specific, I suggest you to check [Why React Hooks?](https://ui.dev/why-react-hooks/) :pencil: :clapper: in order to learn more about React history and or why we now use hooks.
@@ -43,12 +46,12 @@ If you want to learn more about Redux then I would recommend its [official doc](
 - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) :clapper:
 - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) :pencil:
 - [Redux Toolkit](https://redux-toolkit.js.org/introduction/quick-start) :pencil: The official, opinionated, batteries-included toolset for efficient Redux development;
+- [Others links](https://github.com/markerikson/react-redux-links) :pencil:
 
 ## 3) What's next!? 🎓
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) :pencil:
-- Create your first React App via [create-react-app](https://facebook.github.io/create-react-app/) :computer: or directly in your browser on [codesandbox](https://codesandbox.io/) :globe_with_meridians:
-- Have a look to [Next.js](https://nextjs.org/), [Gatsby](https://www.gatsbyjs.com/) and React Native via [Expo](https://expo.io/);
-- [More links](https://github.com/markerikson/react-redux-links) :pencil:
+- Create your first React app via [create-react-app](https://facebook.github.io/create-react-app/) :computer: or directly in your browser on [codesandbox](https://codesandbox.io/) :globe_with_meridians:
+- If you have basic understanding of React you could have a look to [Next.js](https://nextjs.org/), [Gatsby](https://www.gatsbyjs.com/) and React Native via [Expo](https://expo.io/). Thos are powerful and widely used frameworks;
 
 ## What about styling? 💅
 ##### Some basics
@@ -60,12 +63,22 @@ If you want to learn more about Redux then I would recommend its [official doc](
 - [JSS](http://cssinjs.org/) :pencil:
 - [Emotion](https://emotion.sh/) :pencil:
 - [Styled Components](https://www.styled-components.com/) :pencil: I think they are the best in between choice for those who are used to write "classic" CSS and want to take advantage from mixing it with JavaScript.
+##### Design systems
+Maybe you just want to build an app and avoid spending a lot of time writing CSS and HTML. I suggest you using libraries such as [Material-UI](https://material-ui.com/), [Ant Design](https://ant.design/) or [Polaris](https://polaris.shopify.com/).
 
 ## What about testing? 🤖
 - [But really, what is a JavaScript test?](https://www.javascriptjanuary.com/blog/but-really-what-is-a-javascript-test) :pencil: 
 - [How to use React Testing Library Tutorial](https://www.robinwieruch.de/react-testing-library) :pencil: Understand Jest and learned how to write automated tests via React Testing Library (there are others testing libraries but RTL is a great one [recommended](https://reactjs.org/docs/testing.html#tools) by the official doc).
 - [Understanding Jest Mocks](https://medium.com/@rickhanlonii/understanding-jest-mocks-f0046c68e53c) :pencil: Mocking is a technique to isolate test subjects by replacing dependencies with objects that you can control and inspect.
 - [Why Cypress?](https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell) :clapper: a library to write end-to-end tests and more;
+
+## Others libraries / tools I default to:
+- Code editor: [https://code.visualstudio.com/](VS Code);
+- Auto code formatter: [https://prettier.io/](Prettier);
+- Manage Git via an UI instead of commands: [https://www.sourcetreeapp.com/](Sourcetree);
+- Routing: [react-router](https://reactrouter.com/);
+- Internationalization: [LinguiJS](https://lingui.js.org/);
+- Develop your components in isolation and share them to your team via [Storybook][https://storybook.js.org/];
 
 ## Paid Courses 💸
 The ones I recommend after completing them:
