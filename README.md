@@ -78,7 +78,7 @@ Maybe you just want to build an app and avoid spending a lot of time writing CSS
 - Manage Git via an UI instead of commands: [Sourcetree](https://www.sourcetreeapp.com/);
 - Routing: [react-router](https://reactrouter.com/);
 - Internationalization: [LinguiJS](https://lingui.js.org/);
-- Develop your components in isolation and share them to your team via [Storybook][https://storybook.js.org/];
+- Develop your components in isolation and share them to your team via [Storybook](https://storybook.js.org/);
 
 ## Paid Courses 💸
 The ones I recommend after completing them:
