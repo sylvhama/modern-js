@@ -29,14 +29,14 @@ Sometimes you will need to search for documentation, for example if you don't kn
 - [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react) :clapper:
 - [Progressive React](https://houssein.me/progressive-react) :pencil: tips to make your React site performant. [web.dev](https://web.dev/) also has a lot of articles like that.
 
-##### Hooks :vs: Class Components
+### Hooks :vs: Class Components
 The hooks are very React specific, I suggest you check [Why React Hooks?](https://ui.dev/why-react-hooks/) :pencil: :clapper: in order to learn more about React history and or why we now use hooks.
 You might also want to learn about Class components and some patterns used to share logic between components (before hooks arrival) because there are still present in a lot of codebases:
 - [React Lifecycle Methods Diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/) :pencil: this will help you to understand how a Class component lives and dies. 
 - [Higher Order Components: A React Application Design Pattern](https://www.sitepoint.com/react-higher-order-components/) :pencil:
 - [Render Props](https://reactjs.org/docs/render-props.html) :pencil:
 
-##### State management
+### State management
 At some point you might think it would be nice to have access to some kind of global state in any React component in order to avoid passing down props again and again... People might tell you to use Redux or MobX or Apollo or XState or [insert popular library name] to achieve that but it might be overkilled! I recommend reading the article [You might not need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367) :pencil: first. Plus React now has a stable [Context API](https://kentcdodds.com/blog/reacts-new-context-api) :pencil: that will help you to share data across components without a third party library.  
 
 If you want to learn more about Redux then I would recommend its [official doc](https://redux.js.org/) :pencil: and those links:
@@ -54,16 +54,16 @@ If you want to learn more about Redux then I would recommend its [official doc](
 - If you have a basic understanding of React you could have a look to [Next.js](https://nextjs.org/), [Gatsby](https://www.gatsbyjs.com/) and React Native via [Expo](https://expo.io/). Those are powerful and widely used frameworks;
 
 ## What about styling? 💅
-##### Some basics
+### Some basics
 - [Modern CSS Explained For Dinosaurs](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525) :pencil:
 - [CSS-in-JS or CSS-and-JS](https://johnpolacek.github.io/css-in-js-or-css-and-js/) :pencil:
 - [Styling and CSS](https://reactjs.org/docs/faq-styling.html) Official React doc :pencil:
-##### Libraries you can use to manage your style:
+### Libraries you can use to manage your style:
 - [CSS Modules](https://github.com/css-modules/css-modules) :pencil:
 - [JSS](http://cssinjs.org/) :pencil:
 - [Emotion](https://emotion.sh/) :pencil:
 - [Styled Components](https://www.styled-components.com/) :pencil: I think they are the best in between choice for those who are used to write "classic" CSS and want to take advantage from mixing it with JavaScript.
-##### Design systems
+### Design systems
 Maybe you just want to build an app and avoid spending a lot of time writing CSS and HTML. I suggest you use libraries such as [Material-UI](https://material-ui.com/), [Ant Design](https://ant.design/) or [Polaris](https://polaris.shopify.com/).
 
 ## What about testing? 🤖
@@ -72,7 +72,7 @@ Maybe you just want to build an app and avoid spending a lot of time writing CSS
 - [Understanding Jest Mocks](https://medium.com/@rickhanlonii/understanding-jest-mocks-f0046c68e53c) :pencil: Mocking is a technique to isolate test subjects by replacing dependencies with objects that you can control and inspect.
 - [Why Cypress?](https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell) :clapper: a library to write end-to-end tests and more;
 
-## Others libraries / tools I default to:
+## Others libraries / tools I default to 💡
 - Code editor: [VS Code](https://code.visualstudio.com/);
 - Auto code formatter: [Prettier](https://prettier.io/);
 - Manage Git via an UI instead of commands: [Sourcetree](https://www.sourcetreeapp.com/);
