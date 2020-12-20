@@ -20,7 +20,7 @@ The purpose of this guide is to provide a list of several free ressources (artic
 - [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA) :clapper: At school I had to do a lot of Object Oriented Programming. This video helped me to understand why it's not always necessary. 
 
 ### Documentation
-Sometimes you will need to search for documentation, for example if you don't know a specific keyword in a codebase or you would like to learn how to use a native function. Of course you cna use any search engine or Stackoverflow but I would recommend using the [MDN Web Docs](https://developer.mozilla.org/). 
+Sometimes you will need to search for documentation, for example if you don't know a specific keyword in a codebase or you would like to learn how to use a native function. Of course you can use any search engine or Stackoverflow but I would recommend using the [MDN Web Docs](https://developer.mozilla.org/). 
 
 ## 2) React :atom_symbol:
 
@@ -30,14 +30,14 @@ Sometimes you will need to search for documentation, for example if you don't kn
 - [Progressive React](https://houssein.me/progressive-react) :pencil: tips to make your React site performant. [web.dev](https://web.dev/) also has a lot of articles like that.
 
 ##### Hooks :vs: Class Components
-The hooks are very React specific, I suggest you to check [Why React Hooks?](https://ui.dev/why-react-hooks/) :pencil: :clapper: in order to learn more about React history and or why we now use hooks.
+The hooks are very React specific, I suggest you check [Why React Hooks?](https://ui.dev/why-react-hooks/) :pencil: :clapper: in order to learn more about React history and or why we now use hooks.
 You might also want to learn about Class components and some patterns used to share logic between components (before hooks arrival) because there are still present in a lot of codebases:
 - [React Lifecycle Methods Diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/) :pencil: this will help you to understand how a Class component lives and dies. 
 - [Higher Order Components: A React Application Design Pattern](https://www.sitepoint.com/react-higher-order-components/) :pencil:
 - [Render Props](https://reactjs.org/docs/render-props.html) :pencil:
 
 ##### State management
-At some point you might think it would be nice to have access to some kind of global state in any React component in order to avoid passing down props again and again... People might tell you to use Redux or MobX or Apollo or XState or [insert popular libray name] to achieve that but it might be overkilled! I recommend reading the article [You might not need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367) :pencil: first. Plus React now has a stable [Context API](https://kentcdodds.com/blog/reacts-new-context-api) :pencil: that will help you to share data across components without a third party library.  
+At some point you might think it would be nice to have access to some kind of global state in any React component in order to avoid passing down props again and again... People might tell you to use Redux or MobX or Apollo or XState or [insert popular library name] to achieve that but it might be overkilled! I recommend reading the article [You might not need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367) :pencil: first. Plus React now has a stable [Context API](https://kentcdodds.com/blog/reacts-new-context-api) :pencil: that will help you to share data across components without a third party library.  
 
 If you want to learn more about Redux then I would recommend its [official doc](https://redux.js.org/) :pencil: and those links:
 - [React, Redux and JavaScript Architecture](https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/) :pencil:
@@ -51,7 +51,7 @@ If you want to learn more about Redux then I would recommend its [official doc](
 ## 3) What's next!? 🎓
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) :pencil:
 - Create your first React app via [create-react-app](https://facebook.github.io/create-react-app/) :computer: or directly in your browser on [codesandbox](https://codesandbox.io/) :globe_with_meridians:
-- If you have basic understanding of React you could have a look to [Next.js](https://nextjs.org/), [Gatsby](https://www.gatsbyjs.com/) and React Native via [Expo](https://expo.io/). Thos are powerful and widely used frameworks;
+- If you have a basic understanding of React you could have a look to [Next.js](https://nextjs.org/), [Gatsby](https://www.gatsbyjs.com/) and React Native via [Expo](https://expo.io/). Those are powerful and widely used frameworks;
 
 ## What about styling? 💅
 ##### Some basics
@@ -64,7 +64,7 @@ If you want to learn more about Redux then I would recommend its [official doc](
 - [Emotion](https://emotion.sh/) :pencil:
 - [Styled Components](https://www.styled-components.com/) :pencil: I think they are the best in between choice for those who are used to write "classic" CSS and want to take advantage from mixing it with JavaScript.
 ##### Design systems
-Maybe you just want to build an app and avoid spending a lot of time writing CSS and HTML. I suggest you using libraries such as [Material-UI](https://material-ui.com/), [Ant Design](https://ant.design/) or [Polaris](https://polaris.shopify.com/).
+Maybe you just want to build an app and avoid spending a lot of time writing CSS and HTML. I suggest you use libraries such as [Material-UI](https://material-ui.com/), [Ant Design](https://ant.design/) or [Polaris](https://polaris.shopify.com/).
 
 ## What about testing? 🤖
 - [But really, what is a JavaScript test?](https://www.javascriptjanuary.com/blog/but-really-what-is-a-javascript-test) :pencil: 
