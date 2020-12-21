@@ -77,7 +77,7 @@ Maybe you just want to build an app and avoid spending a lot of time writing CSS
 - Auto code formatter: [Prettier](https://prettier.io/);
 - Manage Git via an UI instead of commands: [Sourcetree](https://www.sourcetreeapp.com/);
 - Build and deploy you app: [Netlify](https://www.netlify.com/);
-- CI: [Travis CI](https://travis-ci.com/);
+- Continuous Integration: [Travis CI](https://travis-ci.com/);
 - Buy domain name: [Google Domains](https://domains.google/);
 
 ## Others libraries I default to
