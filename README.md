@@ -72,10 +72,15 @@ Maybe you just want to build an app and avoid spending a lot of time writing CSS
 - [Understanding Jest Mocks](https://medium.com/@rickhanlonii/understanding-jest-mocks-f0046c68e53c) :pencil: Mocking is a technique to isolate test subjects by replacing dependencies with objects that you can control and inspect.
 - [Why Cypress?](https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell) :clapper: a library to write end-to-end tests and more;
 
-## Others libraries / tools I default to 💡
+## Others tools I default to
 - Code editor: [VS Code](https://code.visualstudio.com/);
 - Auto code formatter: [Prettier](https://prettier.io/);
 - Manage Git via an UI instead of commands: [Sourcetree](https://www.sourcetreeapp.com/);
+- Build and deploy you app: [Netlify](https://www.netlify.com/);
+- CI: [Travis CI](https://travis-ci.com/);
+- Buy domain name: [Google Domains](https://domains.google/);
+
+## Others libraries I default to
 - Routing: [react-router](https://reactrouter.com/);
 - Internationalization: [LinguiJS](https://lingui.js.org/);
 - Develop your components in isolation and share them to your team via [Storybook](https://storybook.js.org/);
