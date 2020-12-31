@@ -51,6 +51,7 @@ If you want to learn more about Redux then I would recommend its [official doc](
 ## 3) What's next!? 🎓
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) :pencil:
 - Create your first React app via [create-react-app](https://facebook.github.io/create-react-app/) :computer: or directly in your browser on [codesandbox](https://codesandbox.io/) :globe_with_meridians:
+- Subscribe to [React Newsletter](https://ui.dev/newsletters/react/);
 - If you have a basic understanding of React you could have a look to [Next.js](https://nextjs.org/), [Gatsby](https://www.gatsbyjs.com/) and React Native via [Expo](https://expo.io/). Those are powerful and widely used frameworks;
 
 ## What about styling? 💅
