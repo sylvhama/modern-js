@@ -32,7 +32,7 @@ Sometimes you will need to search for documentation, for example if you don't kn
 ### Hooks :vs: Class Components
 The hooks are very React specific, I suggest you check [Why React Hooks?](https://ui.dev/why-react-hooks/) :pencil: :clapper: in order to learn more about React history and or why we now use hooks.
 You might also want to learn about Class components and some patterns used to share logic between components (before hooks arrival) because there are still present in a lot of codebases:
-- [React Lifecycle Methods Diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/) :pencil: this will help you to understand how a Class component lives and dies. 
+- Compare the [Hook Flow Fiagram](https://github.com/donavon/hook-flow#flow-diagram) :pencil: with the [Class Component Lifecycle Methods Diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/) :pencil:
 - [Higher Order Components: A React Application Design Pattern](https://www.sitepoint.com/react-higher-order-components/) :pencil:
 - [Render Props](https://reactjs.org/docs/render-props.html) :pencil:
 
