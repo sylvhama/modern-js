@@ -24,6 +24,7 @@ Sometimes you will need to search for documentation, for example if you don't kn
 
 ## 2) React :atom_symbol:
 
+- [What is React: A Visual Introduction For Beginners](https://learnreact.design/posts/what-is-react) :pencil:
 - [JavaScript to know for React](https://kentcdodds.com/blog/javascript-to-know-for-react) :pencil:
 - The [official doc](https://reactjs.org/docs/getting-started.html) is awesome! They also have a list of [free courses](https://reactjs.org/community/courses.html) (and paid ones).
 - [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react) :clapper:
