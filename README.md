@@ -38,16 +38,7 @@ You might also want to learn about Class components and some patterns used to sh
 - [Render Props](https://reactjs.org/docs/render-props.html) :pencil:
 
 ### State management
-At some point you might think it would be nice to have access to some kind of global state in any React component in order to avoid passing down props again and again... People might tell you to use Redux or MobX or Apollo or XState or [insert popular library name] to achieve that but it might be overkilled! I recommend reading the article [You might not need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367) :pencil: first. Plus React now has a stable [Context API](https://kentcdodds.com/blog/reacts-new-context-api) :pencil: that will help you to share data across components without a third party library.  
-
-If you want to learn more about Redux then I would recommend its [official doc](https://redux.js.org/) :pencil: and those links (*beware that some might be outdated*):
-- [React, Redux and JavaScript Architecture](https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/) :pencil:
-- [Understanding Redux: The World’s Easiest Guide to Beginning Redux](https://medium.freecodecamp.org/understanding-redux-the-worlds-easiest-guide-to-beginning-redux-c695f45546f6) :pencil:
-- [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) :clapper:
-- [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) :clapper:
-- [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) :pencil:
-- [Redux Toolkit](https://redux-toolkit.js.org/introduction/quick-start) :pencil: The official, opinionated, batteries-included toolset for efficient Redux development;
-- [Others links](https://github.com/markerikson/react-redux-links) :pencil:
+At some point you might think it would be nice to have access to some kind of global state in any React component in order to avoid passing down props again and again... People might tell you to use Redux or MobX or Apollo or XState or [insert popular library name] to achieve that but it might be overkilled! I would recommend reading the article [React State Management Libraries and How to Choose](https://daveceddia.com/react-state-management) :pencil: to get a nice overview.
 
 ## 3) What's next!? 🎓
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) :pencil:
