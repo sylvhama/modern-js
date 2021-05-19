@@ -48,6 +48,7 @@ At some point you might think it would be nice to have access to some kind of gl
 
 ## What about styling? 💅
 ### Some basics
+- [Learn CSS](https://web.dev/learn/css/) An evergreen CSS course and reference to level up your web styling expertise. 📝
 - [Modern CSS Explained For Dinosaurs](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525) :pencil:
 - [CSS-in-JS or CSS-and-JS](https://johnpolacek.github.io/css-in-js-or-css-and-js/) :pencil:
 - [Styling and CSS](https://reactjs.org/docs/faq-styling.html) Official React doc :pencil:
