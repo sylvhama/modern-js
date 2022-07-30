@@ -61,7 +61,7 @@ At some point you might think it would be nice to have access to some kind of gl
 Maybe you just want to build an app and avoid spending a lot of time writing CSS and HTML. I suggest you use libraries such as [Material-UI](https://material-ui.com/), [Ant Design](https://ant.design/) or [Polaris](https://polaris.shopify.com/).
 
 ## What about testing? 🤖
-- [But really, what is a JavaScript test?](https://www.javascriptjanuary.com/blog/but-really-what-is-a-javascript-test) :pencil: 
+- [But really, what is a JavaScript test?](https://kentcdodds.com/blog/but-really-what-is-a-javascript-test) :pencil: 
 - [How to use React Testing Library Tutorial](https://www.robinwieruch.de/react-testing-library) :pencil: Understand Jest and learned how to write automated tests via React Testing Library (there are others testing libraries but RTL is a great one [recommended](https://reactjs.org/docs/testing.html#tools) by the official doc).
 - [Understanding Jest Mocks](https://medium.com/@rickhanlonii/understanding-jest-mocks-f0046c68e53c) :pencil: Mocking is a technique to isolate test subjects by replacing dependencies with objects that you can control and inspect.
 - [Why Cypress?](https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell) :clapper: a library to write end-to-end tests and more;
