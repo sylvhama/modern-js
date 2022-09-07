@@ -42,9 +42,9 @@ At some point you might think it would be nice to have access to some kind of gl
 
 ## 3) What's next!? 🎓
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) :pencil:
-- Create your first React app via [create-react-app](https://facebook.github.io/create-react-app/) :computer: or directly in your browser on [codesandbox](https://codesandbox.io/) :globe_with_meridians:
+- Practice React with [create-react-app](https://facebook.github.io/create-react-app/) :computer: or directly in your browser on [codesandbox](https://codesandbox.io/) :globe_with_meridians:
 - Subscribe to [React Newsletter](https://ui.dev/newsletters/react/);
-- If you have a basic understanding of React you could have a look to [Next.js](https://nextjs.org/), [Gatsby](https://www.gatsbyjs.com/) and React Native via [Expo](https://expo.io/). Those are powerful and widely used frameworks;
+- To start a new project: [Vite](https://vitejs.dev/), [Next.js](https://nextjs.org/), [Gatsby](https://www.gatsbyjs.com/), React Native via [Expo](https://expo.io/);
 
 ## What about styling? 💅
 ### Some basics
