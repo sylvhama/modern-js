@@ -41,10 +41,10 @@ You might also want to learn about Class components and some patterns used to sh
 At some point you might think it would be nice to have access to some kind of global state in any React component in order to avoid passing down props again and again... People might tell you to use Redux or MobX or Apollo or XState or [insert popular library name] to achieve that but it might be overkilled! I would recommend reading the article [React State Management Libraries and How to Choose](https://daveceddia.com/react-state-management) :pencil: to get a nice overview.
 
 ## 3) What's next!? 🎓
-- [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) :pencil:
 - Practice React with [create-react-app](https://facebook.github.io/create-react-app/) :computer: or directly in your browser on [codesandbox](https://codesandbox.io/) :globe_with_meridians:
 - Subscribe to [React Newsletter](https://ui.dev/newsletters/react/);
 - To start a new project: [Vite](https://vitejs.dev/), [Next.js](https://nextjs.org/), [Gatsby](https://www.gatsbyjs.com/), React Native via [Expo](https://expo.io/);
+- [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) :pencil:
 
 ## What about styling? 💅
 ### Some basics
@@ -58,7 +58,7 @@ At some point you might think it would be nice to have access to some kind of gl
 - [Emotion](https://emotion.sh/) :pencil:
 - [Styled Components](https://www.styled-components.com/) :pencil: I think they are the best in between choice for those who are used to write "classic" CSS and want to take advantage from mixing it with JavaScript.
 ### Design systems
-Maybe you just want to build an app and avoid spending a lot of time writing CSS and HTML. I suggest you use libraries such as [Material-UI](https://material-ui.com/), [Ant Design](https://ant.design/) or [Polaris](https://polaris.shopify.com/).
+Maybe you just want to build an app and avoid spending a lot of time writing CSS and HTML. I suggest you use libraries such as [Material-UI](https://material-ui.com/), [Ant Design](https://ant.design/) or [Polaris](https://polaris.shopify.com/). If you want to build your own design system I would suggest you to read [Atomic Design](https://atomicdesign.bradfrost.com/). 
 
 ## What about testing? 🤖
 - [But really, what is a JavaScript test?](https://kentcdodds.com/blog/but-really-what-is-a-javascript-test) :pencil: 
@@ -69,7 +69,8 @@ Maybe you just want to build an app and avoid spending a lot of time writing CSS
 ## Others tools I default to
 - Code editor: [VS Code](https://code.visualstudio.com/);
 - Auto code formatter: [Prettier](https://prettier.io/);
-- Manage Git via an UI instead of commands: [Sourcetree](https://www.sourcetreeapp.com/);
+- Linter: [ESLint](https://eslint.org/);
+- Manage Git via an UI instead of commands: [Sourcetree](https://www.sourcetreeapp.com/) or [VS Code](https://code.visualstudio.com/docs/editor/versioncontrol);
 - Build and deploy you app: [Netlify](https://www.netlify.com/);
 - Continuous Integration: [Travis CI](https://travis-ci.com/);
 - Buy domain name: [Google Domains](https://domains.google/);
@@ -77,7 +78,8 @@ Maybe you just want to build an app and avoid spending a lot of time writing CSS
 ## Others libraries I default to
 - Routing: [react-router](https://reactrouter.com/);
 - Internationalization: [LinguiJS](https://lingui.js.org/);
-- Develop your components in isolation and share them to your team via [Storybook](https://storybook.js.org/);
+- Develop your components in isolation and share them to your team via [Storybook](https://storybook.js.org/). Deploy your Storybook and run screenshot tests on each story via [Chromatic](https://www.chromatic.com/);
+- API Mocking when testing: [Mock Service Worker](https://mswjs.io/);
 
 ## Paid Courses 💸
 The ones I recommend after completing them:
