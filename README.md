@@ -41,10 +41,9 @@ You might also want to learn about Class components and some patterns used to sh
 At some point you might think it would be nice to have access to some kind of global state in any React component in order to avoid passing down props again and again... People might tell you to use Redux or MobX or Apollo or XState or [insert popular library name] to achieve that but it might be overkilled! I would recommend reading the article [React State Management Libraries and How to Choose](https://daveceddia.com/react-state-management) :pencil: to get a nice overview.
 
 ## 3) What's next!? 🎓
+- Stay up to date and discover new things with [React Newsletter](https://ui.dev/newsletters/react/) and [Bytes newsletter](https://bytes.dev/);
 - Practice React with [create-react-app](https://facebook.github.io/create-react-app/) :computer: or directly in your browser on [codesandbox](https://codesandbox.io/) :globe_with_meridians:
-- Subscribe to [React Newsletter](https://ui.dev/newsletters/react/) and [Bytes](https://bytes.dev/);
-- To start a new project: [Vite](https://vitejs.dev/), [Next.js](https://nextjs.org/), [Gatsby](https://www.gatsbyjs.com/), React Native via [Expo](https://expo.io/);
-- [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95) :pencil:
+- Build production ready apps with: [Vite](https://vitejs.dev/), [Next.js](https://nextjs.org/), [Gatsby](https://www.gatsbyjs.com/), React Native via [Expo](https://expo.io/);
 
 ## What about styling? 💅
 ### Some basics
