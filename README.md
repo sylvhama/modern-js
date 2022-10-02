@@ -51,9 +51,10 @@ At some point you might think it would be nice to have access to some kind of gl
 - [Modern CSS Explained For Dinosaurs](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525) :pencil:
 - [CSS-in-JS or CSS-and-JS](https://johnpolacek.github.io/css-in-js-or-css-and-js/) :pencil:
 - [Styling and CSS](https://reactjs.org/docs/faq-styling.html) Official React doc :pencil:
-### Libraries you can use to manage your style:
+### Somne libraries you can use to manage your style:
+- [Tailwind](https://tailwindcss.com/) :pencil:
 - [CSS Modules](https://github.com/css-modules/css-modules) :pencil:
-- [JSS](http://cssinjs.org/) :pencil:
+- [vanilla-extract](https://vanilla-extract.style/) :pencil:
 - [Emotion](https://emotion.sh/) :pencil:
 - [Styled Components](https://www.styled-components.com/) :pencil: I think they are the best in between choice for those who are used to write "classic" CSS and want to take advantage from mixing it with JavaScript.
 ### Design systems
