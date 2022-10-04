@@ -29,6 +29,7 @@ Sometimes you will need to search for documentation, for example if you don't kn
 - The [official doc](https://reactjs.org/docs/getting-started.html) is awesome! They also have a list of [free courses](https://reactjs.org/community/courses.html) (and paid ones).
 - [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react) :clapper:
 - [Progressive React](https://houssein.me/progressive-react) :pencil: tips to make your React site performant. [web.dev](https://web.dev/) also has a lot of articles like that.
+- [Learning Patterns](https://www.patterns.dev/) :book: Patterns for building powerful web apps with vanilla JavaScript and React.
 
 ### Hooks :vs: Class Components
 The hooks are very React specific, I suggest you check [Why React Hooks?](https://ui.dev/why-react-hooks/) :pencil: :clapper: in order to learn more about React history and or why we now use hooks.
