@@ -48,16 +48,16 @@ At some point you might think it would be nice to have access to some kind of gl
 
 ## What about styling? 💅
 ### Some basics
-- [Learn CSS](https://web.dev/learn/css/) An evergreen CSS course and reference to level up your web styling expertise. 📝
+- [Learn CSS](https://web.dev/learn/css/) An evergreen CSS course and reference to level up your web styling expertise. :book:
 - [Modern CSS Explained For Dinosaurs](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525) :pencil:
 - [CSS-in-JS or CSS-and-JS](https://johnpolacek.github.io/css-in-js-or-css-and-js/) :pencil:
 - [Styling and CSS](https://reactjs.org/docs/faq-styling.html) Official React doc :pencil:
 ### Somne libraries you can use to manage your style:
-- [Tailwind](https://tailwindcss.com/) :pencil:
-- [CSS Modules](https://github.com/css-modules/css-modules) :pencil:
-- [vanilla-extract](https://vanilla-extract.style/) :pencil:
-- [Emotion](https://emotion.sh/) :pencil:
-- [Styled Components](https://www.styled-components.com/) :pencil: I think they are the best in between choice for those who are used to write "classic" CSS and want to take advantage from mixing it with JavaScript.
+- [Tailwind](https://tailwindcss.com/)
+- [CSS Modules](https://github.com/css-modules/css-modules) 
+- [vanilla-extract](https://vanilla-extract.style/) 
+- [Emotion](https://emotion.sh/) 
+- [Styled Components](https://www.styled-components.com/), I think they are the best in between choice for those who are used to write "classic" CSS and want to take advantage from mixing it with JavaScript.
 ### Design systems
 Maybe you just want to build an app and avoid spending a lot of time writing CSS and HTML. I suggest you use libraries such as [Material-UI](https://material-ui.com/), [Ant Design](https://ant.design/) or [Polaris](https://polaris.shopify.com/). If you want to build your own design system I would suggest you to read [Atomic Design](https://atomicdesign.bradfrost.com/). 
 
