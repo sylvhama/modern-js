@@ -26,7 +26,7 @@ Sometimes you will need to search for documentation, for example if you don't kn
 
 - [What is React: A Visual Introduction For Beginners](https://learnreact.design/posts/what-is-react) :pencil:
 - [JavaScript to know for React](https://kentcdodds.com/blog/javascript-to-know-for-react) :pencil:
-- The [official doc](https://reactjs.org/docs/getting-started.html) is awesome! They also have a list of [free courses](https://reactjs.org/community/courses.html) (and paid ones).
+- The [official doc](https://react.dev) is the best place to learn React.
 - [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react) :clapper:
 - [Progressive React](https://houssein.me/progressive-react) :pencil: tips to make your React site performant. [web.dev](https://web.dev/) also has a lot of articles like that.
 - [Learning Patterns](https://www.patterns.dev/) :book: Patterns for building powerful web apps with vanilla JavaScript and React.
