@@ -15,7 +15,7 @@ The purpose of this guide is to provide a list of several free ressources (artic
 ### Articles and videos I liked:
 - [Modern JavaScript Explained For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70) :pencil: you will learn basics about npm, Babel, Webpack etc.. and the history behind it.
 - [Understanding Hoisting in JavaScript](https://scotch.io/tutorials/understanding-hoisting-in-javascript) :pencil: if you come from another programming language, you might feel uncomfortable with how we can declare variables in JS. This article will help you to feel better!
-- [Get Started with Debugging JavaScript in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/) :clapper: Firefox or Edge also have their own devtools, but I personally prefer using Chrome ones when coding.
+- [Get Started with Debugging JavaScript in Chrome DevTools](https://developer.chrome.com/docs/devtools/javascript/) :clapper: Firefox or Edge also have their own devtools, but I personally prefer using Chrome ones when coding.
 - [Functional Programming in Javascript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) :clapper: those videos are made by a former Spotify JS developer. He will teach you essential concepts like Promises, Closures or Higher Order Functions. Those things are essentials in React.
 - [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA) :clapper: At school I had to do a lot of Object Oriented Programming. This video helped me to understand why it's not always necessary. 
 
